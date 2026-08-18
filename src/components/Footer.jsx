@@ -28,8 +28,8 @@ function Footer() {
               href="#home"
               className="footer-logo"
             >
-              Likhitha
-              <span>.</span>
+              Likhitha Akkili
+              <span></span>
             </a>
 
             <p>
